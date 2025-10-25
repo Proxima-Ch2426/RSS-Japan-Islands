@@ -1,5 +1,5 @@
 # RSS-Japan-Islands
-Map decals for Tanegashima, Mageshima and Hachijo Islands. Comes with PQS map configs *(delete `Decals.cfg` if needed)*. Runways, launchsites and buildings have to be placed/configured manually.
+Map decals for Tanegashima, Mageshima and Hachijo Islands. Comes with PQS map configs *(delete `Decals.cfg` if needed)*. Runways, launchsites and buildings have to be placed/configured manually. Recommend to place a map decal to flatten the terrain and move it under water.
 
 ### Tanegashima Island
 The Island containing the Tanegashima Launchsite.
